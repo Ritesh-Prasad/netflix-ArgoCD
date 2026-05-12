@@ -10,3 +10,6 @@
 <p align="center">
   <img src="s3_bucket.png" width="800">
 </p>
+<p align="center">
+  <img src="website_deploy_netflix_clon.png" width="800">
+</p>
