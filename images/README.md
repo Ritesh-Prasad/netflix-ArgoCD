@@ -1,1 +1,1 @@
-![Architecture](images/ArgoCd.png)
+![Architecture](ArgoCd.png)
